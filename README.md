@@ -1,2 +1,2 @@
 # Learning
-Repo of learning modules
+Repo of IMB SpaxeX learning modules
